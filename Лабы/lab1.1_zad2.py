@@ -9,8 +9,6 @@ else:
     else:
         larger = b
     print("Большее число:", larger)
-
-# Дополнительная проверка
 if a > 0 and b > 0:
     print("Оба числа положительные.")
 elif a < 0 and b < 0:
